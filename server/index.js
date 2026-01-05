@@ -32,7 +32,7 @@ bot.on('message', async msg => {
 							{
 								text: "Kurslarni ko'rish",
 								web_app: {
-									url: 'https://telegram-web-bot-brown-ten.vercel.app',
+									url: 'https://telegram-web-bot-bay.vercel.app/',
 								},
 							},
 						],
@@ -53,7 +53,7 @@ bot.on('message', async msg => {
 							{
 								text: "Kurslarni ko'rish",
 								web_app: {
-									url: 'https://telegram-web-bot.vercel.app',
+									url: 'https://telegram-web-bot-bay.vercel.app/',
 								},
 							},
 						],
